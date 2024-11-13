@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #000000;
 }
 
 /* me guie por 1280px de ancho como en la maqueta
@@ -34,7 +35,6 @@ p {
 body {
   width: 1280px;
   margin: 0 auto;
-  background-color: #000000;
 }
 
 /*PRIMERA SECCION*/
